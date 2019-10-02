@@ -26,7 +26,6 @@ namespace TestProject
 
             mm.Prepare(mail);
             
-            ////
             var logAction = new Action<Exception>((ex) =>
             {
                 Console.WriteLine(ex.ToString());
