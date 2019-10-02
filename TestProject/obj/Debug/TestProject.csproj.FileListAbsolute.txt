@@ -1,0 +1,16 @@
+c:\users\karar\documents\visual studio 2013\Projects\MailManagement\TestProject\bin\Debug\TestProject.exe.config
+c:\users\karar\documents\visual studio 2013\Projects\MailManagement\TestProject\bin\Debug\TestProject.exe
+c:\users\karar\documents\visual studio 2013\Projects\MailManagement\TestProject\bin\Debug\TestProject.pdb
+c:\users\karar\documents\visual studio 2013\Projects\MailManagement\TestProject\bin\Debug\MailManagement.dll
+c:\users\karar\documents\visual studio 2013\Projects\MailManagement\TestProject\bin\Debug\MailManagement.pdb
+c:\users\karar\documents\visual studio 2013\Projects\MailManagement\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+c:\users\karar\documents\visual studio 2013\Projects\MailManagement\TestProject\obj\Debug\TestProject.exe
+c:\users\karar\documents\visual studio 2013\Projects\MailManagement\TestProject\obj\Debug\TestProject.pdb
+C:\Users\karar\Desktop\DPGitHub\mailmanagement\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\karar\Desktop\DPGitHub\mailmanagement\TestProject\obj\Debug\TestProject.exe
+C:\Users\karar\Desktop\DPGitHub\mailmanagement\TestProject\obj\Debug\TestProject.pdb
+C:\Users\karar\Desktop\DPGitHub\mailmanagement\TestProject\bin\Debug\TestProject.exe
+C:\Users\karar\Desktop\DPGitHub\mailmanagement\TestProject\bin\Debug\TestProject.pdb
+C:\Users\karar\Desktop\DPGitHub\mailmanagement\TestProject\bin\Debug\MailManagement.dll
+C:\Users\karar\Desktop\DPGitHub\mailmanagement\TestProject\bin\Debug\MailManagement.pdb
+C:\Users\karar\Desktop\DPGitHub\mailmanagement\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache

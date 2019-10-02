@@ -1,0 +1,10 @@
+c:\users\karar\documents\visual studio 2013\Projects\MailManagement\MailManagement\bin\Debug\MailManagement.dll
+c:\users\karar\documents\visual studio 2013\Projects\MailManagement\MailManagement\bin\Debug\MailManagement.pdb
+c:\users\karar\documents\visual studio 2013\Projects\MailManagement\MailManagement\obj\Debug\MailManagement.dll
+c:\users\karar\documents\visual studio 2013\Projects\MailManagement\MailManagement\obj\Debug\MailManagement.pdb
+c:\users\karar\documents\visual studio 2013\Projects\MailManagement\MailManagement\obj\Debug\MailManagement.csprojResolveAssemblyReference.cache
+C:\Users\karar\Desktop\DPGitHub\mailmanagement\MailManagement\bin\Debug\MailManagement.dll
+C:\Users\karar\Desktop\DPGitHub\mailmanagement\MailManagement\bin\Debug\MailManagement.pdb
+C:\Users\karar\Desktop\DPGitHub\mailmanagement\MailManagement\obj\Debug\MailManagement.csprojResolveAssemblyReference.cache
+C:\Users\karar\Desktop\DPGitHub\mailmanagement\MailManagement\obj\Debug\MailManagement.dll
+C:\Users\karar\Desktop\DPGitHub\mailmanagement\MailManagement\obj\Debug\MailManagement.pdb
